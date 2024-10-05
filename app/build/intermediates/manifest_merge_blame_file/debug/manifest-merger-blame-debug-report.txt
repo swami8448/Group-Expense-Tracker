@@ -1,0 +1,75 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.group_expense_tracker"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="17"
+8-->D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="27" />
+9-->D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:5:5-29:19
+12        android:allowBackup="true"
+12-->D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:6:9-35
+13        android:debuggable="true"
+14        android:icon="@mipmap/mainlogo"
+14-->D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:7:9-40
+15        android:label="@string/app_name"
+15-->D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:8:9-41
+16        android:roundIcon="@mipmap/mainlogo"
+16-->D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:9:9-45
+17        android:supportsRtl="true"
+17-->D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:10:9-35
+18        android:testOnly="true"
+19        android:theme="@style/AppTheme" >
+19-->D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:11:9-40
+20        <activity android:name="com.example.group_expense_tracker.MainActivity" >
+20-->D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:12:9-18:20
+20-->D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:12:19-47
+21            <intent-filter>
+21-->D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:13:13-17:29
+22                <action android:name="android.intent.action.MAIN" />
+22-->D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:14:17-69
+22-->D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:14:25-66
+23
+24                <category android:name="android.intent.category.LAUNCHER" />
+24-->D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:16:17-77
+24-->D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:16:27-74
+25            </intent-filter>
+26        </activity>
+27        <activity android:name="com.example.group_expense_tracker.TripSelection" />
+27-->D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:19:9-51
+27-->D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:19:19-48
+28        <activity android:name="com.example.group_expense_tracker.GroupCreation" />
+28-->D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:20:9-51
+28-->D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:20:19-48
+29        <activity android:name="com.example.group_expense_tracker.AddMembers" />
+29-->D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:21:9-48
+29-->D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:21:19-45
+30        <activity android:name="com.example.group_expense_tracker.Home" />
+30-->D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:22:9-42
+30-->D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:22:19-39
+31        <activity android:name="com.example.group_expense_tracker.Members" />
+31-->D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:23:9-45
+31-->D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:23:19-42
+32        <activity android:name="com.example.group_expense_tracker.Add_Expenses" />
+32-->D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:24:9-50
+32-->D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:24:19-47
+33        <activity android:name="com.example.group_expense_tracker.ExpensePieGraph" />
+33-->D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:25:9-53
+33-->D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:25:19-50
+34        <activity android:name="com.example.group_expense_tracker.ModifyExpenses" />
+34-->D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:26:9-52
+34-->D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:26:19-49
+35        <activity android:name="com.example.group_expense_tracker.Calculate" />
+35-->D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:27:9-47
+35-->D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:27:19-44
+36        <activity android:name="com.example.group_expense_tracker.TripDetail" />
+36-->D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:28:9-57
+36-->D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:28:19-45
+37    </application>
+38
+39</manifest>

@@ -1,0 +1,4 @@
+#Tue Jul 18 15:10:12 IST 2023
+base.0=D\:\\group_expense_tracker-master\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
