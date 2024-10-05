@@ -1,0 +1,166 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:2:1-31:12
+MERGED from [com.diegodobelo.expandingview:expanding-view:0.9.4] C:\Users\sudee\.gradle\caches\transforms-3\18f94116a8b4d103c7450813701d5ac7\transformed\expanding-view-0.9.4\AndroidManifest.xml:2:1-16:12
+MERGED from [com.sdsmdg.tastytoast:tastytoast:0.1.0] C:\Users\sudee\.gradle\caches\transforms-3\161be1422ece98d7a8476c387c063164\transformed\tastytoast-0.1.0\AndroidManifest.xml:2:1-14:12
+MERGED from [com.airbnb.android:lottie:2.2.0] C:\Users\sudee\.gradle\caches\transforms-3\8679d6274096a89624d527adffa0f4c7\transformed\lottie-2.2.0\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\sudee\.gradle\caches\transforms-3\248f947633a9d4e4613858c1d6a0bf47\transformed\appcompat-v7-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\sudee\.gradle\caches\transforms-3\e64cbef90b41f698af4d86816b9946b8\transformed\constraint-layout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [br.com.simplepass:loading-button-android:1.7.2] C:\Users\sudee\.gradle\caches\transforms-3\bd74ef62806c41cddccc969f712cb302\transformed\loading-button-android-1.7.2\AndroidManifest.xml:2:1-16:12
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0-alpha] C:\Users\sudee\.gradle\caches\transforms-3\387e1e70df3f0f3b2e2d73677637ae78\transformed\MPAndroidChart-v3.1.0-alpha\AndroidManifest.xml:2:1-20:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\sudee\.gradle\caches\transforms-3\55e518342a7e39f02038f38eb55622e3\transformed\support-fragment-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\sudee\.gradle\caches\transforms-3\eacf986c1afa0bbe4b50f3ea420fef07\transformed\animated-vector-drawable-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\sudee\.gradle\caches\transforms-3\c031cb7a2c1d869a6b98b82334412367\transformed\support-core-ui-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\sudee\.gradle\caches\transforms-3\17e2133422dad273ab5f19c777530ec0\transformed\support-core-utils-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\sudee\.gradle\caches\transforms-3\d27c6899c35d041f91f65d62756e77d1\transformed\support-vector-drawable-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\sudee\.gradle\caches\transforms-3\17b9d6d6b72535a9ea0f7eeeebb6092a\transformed\support-compat-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\sudee\.gradle\caches\transforms-3\32d660bd6296c05676ac72fd873bc8cb\transformed\livedata-core-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\sudee\.gradle\caches\transforms-3\bfa1ffedd409e3d93e427991e77e93e6\transformed\viewmodel-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\sudee\.gradle\caches\transforms-3\f05a3a402937bbb1a65a23cc191e46e6\transformed\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\sudee\.gradle\caches\transforms-3\76c59fefd48c0995caa1ea277a8c34b7\transformed\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:3:5-48
+		INJECTED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:5:5-29:19
+MERGED from [com.diegodobelo.expandingview:expanding-view:0.9.4] C:\Users\sudee\.gradle\caches\transforms-3\18f94116a8b4d103c7450813701d5ac7\transformed\expanding-view-0.9.4\AndroidManifest.xml:11:5-14:19
+MERGED from [com.diegodobelo.expandingview:expanding-view:0.9.4] C:\Users\sudee\.gradle\caches\transforms-3\18f94116a8b4d103c7450813701d5ac7\transformed\expanding-view-0.9.4\AndroidManifest.xml:11:5-14:19
+MERGED from [com.sdsmdg.tastytoast:tastytoast:0.1.0] C:\Users\sudee\.gradle\caches\transforms-3\161be1422ece98d7a8476c387c063164\transformed\tastytoast-0.1.0\AndroidManifest.xml:11:5-12:19
+MERGED from [com.sdsmdg.tastytoast:tastytoast:0.1.0] C:\Users\sudee\.gradle\caches\transforms-3\161be1422ece98d7a8476c387c063164\transformed\tastytoast-0.1.0\AndroidManifest.xml:11:5-12:19
+MERGED from [com.airbnb.android:lottie:2.2.0] C:\Users\sudee\.gradle\caches\transforms-3\8679d6274096a89624d527adffa0f4c7\transformed\lottie-2.2.0\AndroidManifest.xml:10:5-20
+MERGED from [com.airbnb.android:lottie:2.2.0] C:\Users\sudee\.gradle\caches\transforms-3\8679d6274096a89624d527adffa0f4c7\transformed\lottie-2.2.0\AndroidManifest.xml:10:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\sudee\.gradle\caches\transforms-3\e64cbef90b41f698af4d86816b9946b8\transformed\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\sudee\.gradle\caches\transforms-3\e64cbef90b41f698af4d86816b9946b8\transformed\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [br.com.simplepass:loading-button-android:1.7.2] C:\Users\sudee\.gradle\caches\transforms-3\bd74ef62806c41cddccc969f712cb302\transformed\loading-button-android-1.7.2\AndroidManifest.xml:11:5-14:19
+MERGED from [br.com.simplepass:loading-button-android:1.7.2] C:\Users\sudee\.gradle\caches\transforms-3\bd74ef62806c41cddccc969f712cb302\transformed\loading-button-android-1.7.2\AndroidManifest.xml:11:5-14:19
+	android:supportsRtl
+		ADDED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:9:9-45
+	android:icon
+		ADDED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:7:9-40
+	android:allowBackup
+		ADDED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.group_expense_tracker.MainActivity
+ADDED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.group_expense_tracker.TripSelection
+ADDED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:19:9-51
+	android:name
+		ADDED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:19:19-48
+activity#com.example.group_expense_tracker.GroupCreation
+ADDED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:20:9-51
+	android:name
+		ADDED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:20:19-48
+activity#com.example.group_expense_tracker.AddMembers
+ADDED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:21:9-48
+	android:name
+		ADDED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:21:19-45
+activity#com.example.group_expense_tracker.Home
+ADDED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:22:9-42
+	android:name
+		ADDED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:22:19-39
+activity#com.example.group_expense_tracker.Members
+ADDED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:23:9-45
+	android:name
+		ADDED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:23:19-42
+activity#com.example.group_expense_tracker.Add_Expenses
+ADDED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:24:9-50
+	android:name
+		ADDED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:24:19-47
+activity#com.example.group_expense_tracker.ExpensePieGraph
+ADDED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:25:9-53
+	android:name
+		ADDED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:25:19-50
+activity#com.example.group_expense_tracker.ModifyExpenses
+ADDED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:26:9-52
+	android:name
+		ADDED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:26:19-49
+activity#com.example.group_expense_tracker.Calculate
+ADDED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:27:9-47
+	android:name
+		ADDED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:27:19-44
+activity#com.example.group_expense_tracker.TripDetail
+ADDED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:28:9-57
+	android:name
+		ADDED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml:28:19-45
+uses-sdk
+INJECTED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml
+INJECTED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml
+MERGED from [com.diegodobelo.expandingview:expanding-view:0.9.4] C:\Users\sudee\.gradle\caches\transforms-3\18f94116a8b4d103c7450813701d5ac7\transformed\expanding-view-0.9.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.diegodobelo.expandingview:expanding-view:0.9.4] C:\Users\sudee\.gradle\caches\transforms-3\18f94116a8b4d103c7450813701d5ac7\transformed\expanding-view-0.9.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.sdsmdg.tastytoast:tastytoast:0.1.0] C:\Users\sudee\.gradle\caches\transforms-3\161be1422ece98d7a8476c387c063164\transformed\tastytoast-0.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.sdsmdg.tastytoast:tastytoast:0.1.0] C:\Users\sudee\.gradle\caches\transforms-3\161be1422ece98d7a8476c387c063164\transformed\tastytoast-0.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.airbnb.android:lottie:2.2.0] C:\Users\sudee\.gradle\caches\transforms-3\8679d6274096a89624d527adffa0f4c7\transformed\lottie-2.2.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.airbnb.android:lottie:2.2.0] C:\Users\sudee\.gradle\caches\transforms-3\8679d6274096a89624d527adffa0f4c7\transformed\lottie-2.2.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\sudee\.gradle\caches\transforms-3\248f947633a9d4e4613858c1d6a0bf47\transformed\appcompat-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\sudee\.gradle\caches\transforms-3\248f947633a9d4e4613858c1d6a0bf47\transformed\appcompat-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\sudee\.gradle\caches\transforms-3\e64cbef90b41f698af4d86816b9946b8\transformed\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\sudee\.gradle\caches\transforms-3\e64cbef90b41f698af4d86816b9946b8\transformed\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [br.com.simplepass:loading-button-android:1.7.2] C:\Users\sudee\.gradle\caches\transforms-3\bd74ef62806c41cddccc969f712cb302\transformed\loading-button-android-1.7.2\AndroidManifest.xml:7:5-9:41
+MERGED from [br.com.simplepass:loading-button-android:1.7.2] C:\Users\sudee\.gradle\caches\transforms-3\bd74ef62806c41cddccc969f712cb302\transformed\loading-button-android-1.7.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0-alpha] C:\Users\sudee\.gradle\caches\transforms-3\387e1e70df3f0f3b2e2d73677637ae78\transformed\MPAndroidChart-v3.1.0-alpha\AndroidManifest.xml:16:5-18:41
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0-alpha] C:\Users\sudee\.gradle\caches\transforms-3\387e1e70df3f0f3b2e2d73677637ae78\transformed\MPAndroidChart-v3.1.0-alpha\AndroidManifest.xml:16:5-18:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\sudee\.gradle\caches\transforms-3\55e518342a7e39f02038f38eb55622e3\transformed\support-fragment-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\sudee\.gradle\caches\transforms-3\55e518342a7e39f02038f38eb55622e3\transformed\support-fragment-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\sudee\.gradle\caches\transforms-3\eacf986c1afa0bbe4b50f3ea420fef07\transformed\animated-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\sudee\.gradle\caches\transforms-3\eacf986c1afa0bbe4b50f3ea420fef07\transformed\animated-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\sudee\.gradle\caches\transforms-3\c031cb7a2c1d869a6b98b82334412367\transformed\support-core-ui-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\sudee\.gradle\caches\transforms-3\c031cb7a2c1d869a6b98b82334412367\transformed\support-core-ui-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\sudee\.gradle\caches\transforms-3\17e2133422dad273ab5f19c777530ec0\transformed\support-core-utils-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\sudee\.gradle\caches\transforms-3\17e2133422dad273ab5f19c777530ec0\transformed\support-core-utils-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\sudee\.gradle\caches\transforms-3\d27c6899c35d041f91f65d62756e77d1\transformed\support-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\sudee\.gradle\caches\transforms-3\d27c6899c35d041f91f65d62756e77d1\transformed\support-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\sudee\.gradle\caches\transforms-3\17b9d6d6b72535a9ea0f7eeeebb6092a\transformed\support-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\sudee\.gradle\caches\transforms-3\17b9d6d6b72535a9ea0f7eeeebb6092a\transformed\support-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\sudee\.gradle\caches\transforms-3\32d660bd6296c05676ac72fd873bc8cb\transformed\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\sudee\.gradle\caches\transforms-3\32d660bd6296c05676ac72fd873bc8cb\transformed\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\sudee\.gradle\caches\transforms-3\bfa1ffedd409e3d93e427991e77e93e6\transformed\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\sudee\.gradle\caches\transforms-3\bfa1ffedd409e3d93e427991e77e93e6\transformed\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\sudee\.gradle\caches\transforms-3\f05a3a402937bbb1a65a23cc191e46e6\transformed\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\sudee\.gradle\caches\transforms-3\f05a3a402937bbb1a65a23cc191e46e6\transformed\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\sudee\.gradle\caches\transforms-3\76c59fefd48c0995caa1ea277a8c34b7\transformed\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\sudee\.gradle\caches\transforms-3\76c59fefd48c0995caa1ea277a8c34b7\transformed\runtime-1.1.0\AndroidManifest.xml:20:5-44
+INJECTED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml
+INJECTED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\group_expense_tracker-master\app\src\main\AndroidManifest.xml
